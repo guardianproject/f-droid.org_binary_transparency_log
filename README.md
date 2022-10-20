@@ -1,4 +1,8 @@
 
+_This is now managed by F-Droid itself, so this has been archived_
+
+See: https://gitlab.com/fdroid/f-droid.org-transparency-log
+
 # Binary Transparency log for https://f-droid.org
 
 This is a log of the signed app index downloaded from
